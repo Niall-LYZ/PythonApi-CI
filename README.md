@@ -41,7 +41,7 @@ uvicorn src.app:app --reload
 ## Testing
 Run tests with:
 ```powershell
-pytest
+python -m pytest
 ```
 
 ## Code Quality
