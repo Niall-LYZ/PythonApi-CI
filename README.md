@@ -10,7 +10,7 @@ A simple FastAPI project with CI/CD integration using GitHub Actions.
 - Continuous Integration via GitHub Actions
 
 ## Why It Matters
-DevSecOps favors shift‑left quality. Pre‑commit enforces formatting/linting before code hits CI, reducing noise and drift between laptops and pipelines.
+CI is the backbone of delivery. Even simple services must compile, test, and prove health automatically. This project creates a baseline that later security checks will plug into.
 
 ## Project Structure
 ```
