@@ -9,6 +9,9 @@ A simple FastAPI project with CI/CD integration using GitHub Actions.
 - Linting with Flake8
 - Continuous Integration via GitHub Actions
 
+## Why It Matters
+DevSecOps favors shift‑left quality. Pre‑commit enforces formatting/linting before code hits CI, reducing noise and drift between laptops and pipelines.
+
 ## Project Structure
 ```
 ├── src/
